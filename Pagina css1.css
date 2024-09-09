@@ -1,0 +1,53 @@
+.f1{
+position: fixed;
+background-color: gray;
+align-items: center;
+font-size:60px;
+display: flex;
+left: 45%;
+top: 80%;
+font-family: 'Times New Roman', Times, serif;
+
+
+
+
+    
+}
+.f1:hover{
+background-color: green;
+
+
+}
+
+.f2{
+    position: fixed;
+    background-color: gray;
+    align-items: center;
+    font-size:60px;
+    display: flex;
+    left: 45%;
+    top: 30%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+    
+    
+        
+    }
+    .f2:hover{
+    background-color: green;
+    
+    
+    }
+
+    .f3{
+color: white;
+
+}
+.f4{
+    color: white;
+align-items: center;
+    display: flex;
+    left: 50%;
+    
+    }
